@@ -1,6 +1,6 @@
 cask "cheatmd" do
   version "1.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "f846e4845887975f5ef97d3a4006cbc0481d207447cff2965253509920ad4a06"
 
   url "https://github.com/caius72/cheatmd/releases/download/v#{version}/cheatmd-#{version}.zip"
   name "cheatmd"
